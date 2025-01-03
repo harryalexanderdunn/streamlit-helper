@@ -20,9 +20,9 @@ Use the template code to get started and try the functionality of streamlit from
 3. Run `streamlit run main.py`
 4. Its as easy as that 👨‍💻
 
-![example_1](images/example_1.PNG)
+![example_1](../images/example_1.PNG)
 
-![example_2](images/example_2.PNG)
+![example_2](../images/example_2.PNG)
 
 ## Deploying to GCP
 
@@ -32,7 +32,6 @@ This article [here](https://dev.to/whitphx/how-to-deploy-streamlit-apps-to-googl
 
 Whether you use Cloud Run or App Engine it is best to use IAP (Identity Aware Proxy) to secure your app
 
-**Deploying to cloud Run:** [Link](docs/deploying_to_cloud_run.md)
+[Deploying to cloud Run](deploying_to_cloud_run.md){ .md-button .md-button--primary }
 
-**Deploying to App Engine:** [Link](docs/deploying_to_app_engine.md)
-
+[Deploying to App Engine](deploying_to_app_engine.md){ .md-button .md-button--primary }
