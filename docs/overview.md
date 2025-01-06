@@ -1,4 +1,6 @@
-# streamlit-helper
+# Streamlit Helper
+
+[Streamlit Repository](https://github.com/harryalexanderdunn/streamlit-helper/tree/main){ .md-button .md-button--primary }
 
 Example Repo for some of the basics of streamlit to get you started with a working repo running locally and in the cloud (GCP). This repo gives you a cheat sheet and examples of the functionality within streamlit including
 
